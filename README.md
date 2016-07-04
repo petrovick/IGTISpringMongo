@@ -1,8 +1,8 @@
-# SpringMvcMongoDB
+# MongoSpringData
 Pre-configured template project for beginners.
 ----------------------------------------------
-Projeto template prÃ© configurado para iniciantes.
+Projeto template pré configurado para iniciantes.
 
 This projected was created to help people with initial configuration of a Spring MVC project and MongoDB.
 ---------------------------------------------------------------------------------------------------------
-Este projeto foi criado para ajudar pessoas com a configuraÃ§Ã£o inicial de um projeto Spring MVC e MongoDB.
+Este projeto foi criado para ajudar pessoas com a configuração inicial de um projeto Spring MVC e MongoDB.
