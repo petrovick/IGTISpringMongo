@@ -1,0 +1,9 @@
+{
+    "emailComentarista": "teste@hotmail.com",
+    "publicacao": {
+        "id": "577acbe445ab045a4b64cbf5"
+    },
+    "comentario": {
+        "descricao": "Muito bom, parabéns"
+    }
+}

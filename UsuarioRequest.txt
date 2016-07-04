@@ -1,0 +1,7 @@
+﻿{
+    "usuario":
+    {
+        "email": "petrovickg@hotmail.com",
+        "nome": "Gabriel Petrovick"
+    }
+}
