@@ -51,7 +51,6 @@ public class UsuarioController {
 		{
 			response.setMessage(ex.getMessage());
 			response.setStatus(500);
-			response.setUsuario(new Usuario("petrovickg@hotmail.com", "Gabriel Petrovick"));
 		}
 		return response;
 	}

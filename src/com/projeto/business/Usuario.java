@@ -13,15 +13,25 @@ public class Usuario implements Serializable
 	private static final long serialVersionUID = -3975234649523180989L;
 	
 	@Id
+	private String id;
 	private String email;
 	private String nome;
 
 	public Usuario() { }
 	
-	public Usuario(String email, String nome) {
+	public Usuario(String id, String email, String nome) {
 		super();
+		this.id = id;
 		this.email = email;
 		this.nome = nome;
+	}
+
+	public String getId() {
+		return id;
+	}
+
+	public void setId(String id) {
+		this.id = id;
 	}
 
 	public String getEmail() {
